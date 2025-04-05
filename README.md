@@ -6,7 +6,6 @@ Um aplicativo web moderno para gerenciamento de tarefas de desenvolvimento, com 
 
 - 📋 Gerenciamento completo de tarefas (criar, editar, excluir)
 - 🎯 Sistema de prioridades (Alta, Média, Baixa)
-- 📊 Estatísticas em tempo real
 - 🌓 Alternância entre tema claro/escuro
 - 💾 Armazenamento local das tarefas
 - 🔍 Filtros por categoria e prioridade
@@ -38,7 +37,6 @@ git clone https://github.com/PyroPapyrus/copilot-tarefas-dev.git
   - Categoria
   - Prioridade
   - Data de entrega
-- Editar tarefas existentes
 - Marcar tarefas como concluídas
 - Excluir tarefas
 
@@ -53,41 +51,7 @@ git clone https://github.com/PyroPapyrus/copilot-tarefas-dev.git
 ### Interface
 - Tema claro/escuro
 - Design responsivo
-- Feedback visual para ações
-- Notificações de sucesso/erro
-
-## 📱 Responsividade
-
-O aplicativo é otimizado para:
-- Desktops
-- Tablets
-- Smartphones
-
-## 💻 Estrutura do Projeto
-
-```
-gerenciador-tarefas-dev/
-├── index.html    # Estrutura da página
-├── styles.css    # Estilos e temas
-└── script.js     # Lógica da aplicação
-```
-
-## 🤝 Como Contribuir
-
-1. Faça um Fork do projeto
-2. Crie uma branch para sua feature (`git checkout -b feature/NovaFeature`)
-3. Commit suas mudanças (`git commit -m 'Adiciona nova feature'`)
-4. Push para a branch (`git push origin feature/NovaFeature`)
-5. Abra um Pull Request
 
 ## 📝 Licença
 
 Este projeto está sob a licença MIT. Veja o arquivo `LICENSE` para mais detalhes.
-
-## 👨‍💻 Autor
-
-PyroPapyrus - [GitHub](https://github.com/PyroPapyrus)
-
----
-
-Desenvolvido com ❤️ e JavaScript
