@@ -83,11 +83,3 @@ gerenciador-tarefas-dev/
 ## 📝 Licença
 
 Este projeto está sob a licença MIT. Veja o arquivo `LICENSE` para mais detalhes.
-
-## 👨‍💻 Autor
-
-PyroPapyrus - [GitHub](https://github.com/PyroPapyrus)
-
----
-
-Desenvolvido com ❤️ e JavaScript
